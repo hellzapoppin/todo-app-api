@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Estudar React",
+      "description": "Estudar React para melhorar minhas habilidades",
+      "time": "evening",
+      "status": "done"
+    },
+    {
+      "id": "2",
+      "title": "Ler livro",
+      "description": "Ler livro de desenvolvimento pessoal",
+      "time": "morning",
+      "status": "done"
+    },
+    {
+      "id": "3",
+      "title": "Treinar",
+      "description": "Treinar para competição de corrida",
+      "time": "afternoon",
+      "status": "in_progress"
+    },
+    {
+      "id": "4",
+      "title": "Fazer compras no Guanabara",
+      "description": "Comprar os ingredientes para o jantar",
+      "time": "afternoon",
+      "status": "in_progress"
+    },
+    {
+      "id": "0d552d45-6575-4ed6-96ed-7866ec5ca8b1",
+      "title": "Meditar",
+      "time": "evening",
+      "description": "Meditar para não pirar",
+      "status": "not_started"
+    },
+    {
+      "id": "1179",
+      "title": "Assistir série",
+      "time": "evening",
+      "description": "Assistir Dark na Netflix",
+      "status": "not_started"
+    },
+    {
+      "id": "609e",
+      "title": "Pratica Yoga",
+      "time": "evening",
+      "description": "Yoga na varanda",
+      "status": "done"
+    }
+  ]
+}
